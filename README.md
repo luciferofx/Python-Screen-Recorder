@@ -274,7 +274,31 @@ If you like this project, consider giving it a ⭐
 > 🚀 Turning ideas into open-source projects
 
 **GitHub:** https://github.com/luciferofx
+---
+## 👥 Contributors
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/luciferofx">
+        <img src="https://github.com/luciferofx.png" width="100px;" alt="Luciferofx"/>
+        <br />
+        <sub><b>Luciferofx</b></sub>
+      </a>
+      <br />
+      <sub>👨‍💻 Author & Maintainer</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ayush-jsx">
+        <img src="https://github.com/ayush-jsx.png" width="100px;" alt="Ayush"/>
+        <br />
+        <sub><b>Ayush</b></sub>
+      </a>
+      <br />
+      <sub>🤝 Contributor</sub>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📜 License
