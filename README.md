@@ -1,5 +1,6 @@
 # 🖥️ OpenSource Screen Recorder
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
